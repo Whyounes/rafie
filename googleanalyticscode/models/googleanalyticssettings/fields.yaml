@@ -1,0 +1,4 @@
+fields:
+  code:
+    label: Your Google Analytics ID
+    placeholder: UA-XXXXXXXX-X
